@@ -53,3 +53,4 @@ extra/private/google-modules/touch/common/goog_touch_interface.ko
 extra/private/google-modules/touch/synaptics/syna_gtd/syna_touch.ko
 extra/private/google-modules/wlan/bcm4383/bcmdhd4383.ko
 extra/private/google-modules/wlan/wlan_ptracker/wlan_ptracker.ko
+extra/private/google-modules/wlan/wonder/wonder.ko
